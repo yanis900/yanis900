@@ -1,16 +1,33 @@
-## Hi there 👋
+# Welcome to My GitHub! 👋
 
-<!--
-**yanis900/yanis900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Hi there!** I’m passionate about building innovative web applications and crafting beautiful digital experiences.
 
-Here are some ideas to get you started:
+## ⚡ My Skills
+- **Languages**: JavaScript, TypeScript, HTML, CSS, Python
+- **Frameworks/Tools**: React, React Native, Node.js, Next.js, Express, MongoDB, Mongoose, Tailwind, Git, GitHub, API Development, Agile, AWS, CI/CD, Jest, NoSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 What I'm Currently Working On
+🌐 **Web/Mobile Applications and Backend API**   
+🎨 Currently working on a watermark generator using Lucide icons.
+
+---
+
+## 🌟 Selected Projects
+
+<div align="center">
+
+| 🚗 **Car Viewer App**  
+
+| 🌍 **Portfolio Website**  
+A personal portfolio
+
+</div>
+
+---
+
+## 📥 Portfolio
+Check out my portfolio here: [https://yanait.com/](#)
+
+Feel free to explore my repositories and reach out if you’d like to collaborate or chat about web development, design systems, or any of the projects above! 😊
