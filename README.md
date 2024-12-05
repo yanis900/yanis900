@@ -15,15 +15,9 @@
 ---
 
 ## 🌟 Selected Projects
-
-<div align="center">
-
-| 🚗 **Car Viewer App**  
-
-| 🌍 **Portfolio Website**  
-A personal portfolio
-
-</div>
+| 🚗 **Car Viewer App**                      | 🌍 **Portfolio Website**              | 📈 **Crypto Dashboard App**                      |
+|--------------------------------------------|---------------------------------------|-----------------------------------------------|
+| A car viewing app with sleek UI and robust filtering options. | A personal portfolio showcasing projects and skills. | A dashboard to track cryptocurrency prices and trends in real time. |
 
 ---
 
