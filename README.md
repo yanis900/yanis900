@@ -4,7 +4,7 @@
 
 ## ⚡ My Skills
 - **Languages**: JavaScript, TypeScript, HTML, CSS, Python
-- **Frameworks/Tools**: React, React Native, Node.js, Next.js, Express, MongoDB, Mongoose, Tailwind, Git, GitHub, API Development, Agile, AWS, CI/CD, Jest, NoSQL
+- **Frameworks/Tools**: React, React Native, Node.js, Next.js, Express, Hono, MongoDB, Mongoose, Tailwind, Git, GitHub, API Development, Agile, AWS, CI/CD, Jest, NoSQL
 
 ## 🛠 What I'm Currently Working On
 🌐 **Web/Mobile Applications and Backend API**   
