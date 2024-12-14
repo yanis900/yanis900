@@ -8,7 +8,7 @@
 
 ## 🛠 What I'm Currently Working On
 🌐 **Web/Mobile Applications and Backend API**   
-🎨 Currently working on a watermark generator using Lucide icons.
+I'm building a powerful npm package that uses AI to analyze your repository and instantly generate a professional README file, saving time and elevating project documentation! 🚀
 
 ## 🌟 Selected Projects
 | 🚗 **Car Viewer App**                      | 🌍 **Portfolio Website**              | 📈 **Crypto Dashboard App**                      |
