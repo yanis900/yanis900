@@ -16,7 +16,8 @@
 [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?logo=Cloudflare&logoColor=white)](#)
 
 - **Languages**: JavaScript, TypeScript, HTML, CSS, Python
-- **Frameworks/Tools**: React, React Native, Node.js, Next.js, Express, Hono, MongoDB, Mongoose, Tailwind, Git, GitHub, API Development, Agile, AWS, CI/CD, Jest, NoSQL
+- **Frameworks/Tools**: React, NodeJS, NextJS, ExpressJS, HonoJS, MongoDB, Mongoose, Tailwind, Git, GitHub, API, Agile, AWS, CI/CD, Jest, NoSQL, GraphQL.
+
 
 ## What I'm Currently Working On
 🌐 **Web/Mobile Applications and Backend API**   
