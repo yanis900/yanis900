@@ -3,8 +3,10 @@
 🚀 **Hi there!** I’m passionate about building innovative web applications and crafting beautiful digital experiences.
 
 ## What I'm Currently Working On
-🌐 **Web/Mobile Applications and Backend API**   
-I'm building a powerful npm package that uses AI to analyze your repository and instantly generate a professional README file, saving time and elevating project documentation! 🚀
+🌐 **Web/Mobile Applications and Backend API** 
+
+## What I'm Doing
+Currently Enrolled at Makers, Enjoying adding Python to my Arsenal
 
 ## My Portfolio
 Check out my portfolio here: https://yanait.com/
