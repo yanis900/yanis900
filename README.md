@@ -1,4 +1,6 @@
 # Welcome! 👋
+![Header](https://github.com/user-attachments/assets/17fda9e5-cee5-429e-9545-6b8320a28e28)
+<img width="1010" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/17fda9e5-cee5-429e-9545-6b8320a28e28" />
 
 🚀 **Hi there!** I’m passionate about building innovative web applications and crafting beautiful digital experiences.
 
