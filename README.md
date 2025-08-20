@@ -1,5 +1,5 @@
 # Welcome! 👋
-![Header](https://github.com/user-attachments/assets/17fda9e5-cee5-429e-9545-6b8320a28e28)
+![Header](https://github.com/user-attachments/assets/74a8f35c-895a-4f54-a615-137b219d94b0)
 
 🚀 **Hi there!** I’m passionate about building innovative web applications and crafting beautiful digital experiences.
 
